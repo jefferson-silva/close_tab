@@ -27,7 +27,7 @@ Func terminate()
 EndFunc
 
 HotKeySet($key, "close_tab")
-HotKeySet("{ESC}", "terminate")
+HotKeySet("{PAUSE}", "terminate")
 
 While 1
 	Sleep(10)
