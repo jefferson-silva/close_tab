@@ -4,7 +4,7 @@
  Author:         Jefferson Silva
 
  Script Function:
-	Links the DELETE key to CTRL+F4. So, it get easier to close browser tabs.
+	Binds the DELETE key to CTRL+F4, so it gets easier to close browser tabs.
 
 #ce ----------------------------------------------------------------------------
 
